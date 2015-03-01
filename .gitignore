@@ -1,2 +1,5 @@
 venv/
 *.csv
+
+transfer.sh
+create.sql
